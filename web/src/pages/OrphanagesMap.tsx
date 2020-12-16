@@ -41,8 +41,8 @@ const OrphanagesMap: React.FC = () => {
         </header>
 
         <footer>
-          <strong>Brasília</strong>
-          <span>Distrito Federal</span>
+          <strong>Lins</strong>
+          <span>São Paulo</span>
         </footer>
       </aside>
 
